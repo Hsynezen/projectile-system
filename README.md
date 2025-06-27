@@ -3,11 +3,17 @@
 This repository represents the official page for SolvexLabs' raycast-based projectile system for Unity.
 
 ## 🎯 About the Asset
+
 ✅ Accurate hit/miss logic
+
 🛠️ Modular, URP ready, with custom visual feedback
+
 ✅ Visual effects (muzzle flash, impact, trails)  
+
 ✅ Modular scripts with inspector-friendly setup  
+
 ✅ Object pooling included  
+
 ✅ Ideal for FPS, training simulations, or prototyping
 
 Compatible with Unity 2021.3 LTS and later.
